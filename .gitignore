@@ -18,6 +18,7 @@ senv/
 Your_Application.egg-info/
 flask_session/
 build/
+#bdist/
 
 # IDE files to ignore
 .vscode/
